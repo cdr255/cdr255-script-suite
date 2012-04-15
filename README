@@ -1,0 +1,36 @@
+The cdr255 Script Suite
+
+I do most of my work from the commandline. This means that,
+when I am working on a project (a composition, a document,
+a program, etc) I tend to do the same few tasks over and
+over and over. Therefore, I started to script away the 
+boring bits, so that I could stop using the drudgery and 
+monotony (and relative safety) as an excuse to keep me from
+working.
+
+I recognize that these scripts have three flaws when it 
+comes to something like distribution:
+
+1. These are mostly tailored towards my own, personal use.
+   to make them useful for You requires a review of the
+   scripts and manual editing. I do not intend to add an
+   automated customization script at this time.
+
+2. These are my own, personal solutions to problems which
+   have probably been solved previously by others. I do
+   not mean to reinvent the wheel with this project, but
+   in regards to any of the other solutions which I have
+   come into contact with before starting this project, 
+   they were not sufficient for my purposes. YMMV.
+
+3. They depend on a lot of other software being present
+   on the same system. For this, I have a file (DEPENDS)
+   in the root of the project. To ensure that nothing 
+   breaks, ensure that all of the software mentioned 
+   there is installed.
+
+If You have any questions or comments concerning these
+scripts, this project, or any of my other projects,
+please email me at cdr255@gmail.com. I would Love to 
+talk to You about it.
+
